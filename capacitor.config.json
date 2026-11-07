@@ -1,6 +1,5 @@
 {
   "appId": "com.nightshift.game",
   "appName": "Night Shift",
-  "webDir": ".",
-  "bundledWebRuntime": false
+  "webDir": "www"
 }
